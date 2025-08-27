@@ -1,6 +1,6 @@
 # Student Depression Prediction with Logistic Regression
 
-## 📌 PROJECT OVERVIEW
+##  PROJECT OVERVIEW
 This project predicts whether a student is at risk of depression based on demographic, lifestyle, and stress-related features.  
 The goal is to build a classification model and evaluate its performance.
 
